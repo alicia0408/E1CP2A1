@@ -9,3 +9,26 @@
 	font-style: normal;
 	font-weight: 400;
 }
+
+#Primero{
+    
+    text-align: center;
+    background-color: rgb(174,0,49);
+
+}
+
+#segundo{
+    background-color: rgb(3, 102, 214);
+    
+}
+
+
+.contenedor{
+    position: relative;
+}
+
+.texto-derecho{
+    position: absolute;
+    top: 50px;
+    left: 280px;
+}
