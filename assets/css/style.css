@@ -10,25 +10,52 @@
 	font-weight: 400;
 }
 
-#Primero{
-    
-    text-align: center;
-    background-color: rgb(174,0,49);
+
+h1 ,h2{
+    font-family: 'Elriolobo'; 
 
 }
+.b{
+    margin-top: 0;
+    
+}
+.primero p{
+    margin:0;
+    color: white;
+}
+#Primero{
+   height: 100px;
+    text-align: center;
+    background-color: rgb(174,0,49);
+    color: white;
 
-#segundo{
+}
+.c{
+    padding: 25px 0;
+}
+.segundo{
+
+    height: auto;
     background-color: rgb(3, 102, 214);
+    text-align: center;
+    
+    
+}
+
+.ultimo{
+    font-family:'Elriolobo';
+    text-align: center;
+    font-size: 70px;
     
 }
 
 
 .contenedor{
-    position: relative;
+background-image: url("../images/cuzco2.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+ text-align: right;
+ height: 600px;   
+ color: white;
 }
 
-.texto-derecho{
-    position: absolute;
-    top: 50px;
-    left: 280px;
-}
