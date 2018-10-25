@@ -15,14 +15,17 @@ h1 ,h2{
     font-family: 'Elriolobo'; 
 
 }
+
 .b{
     margin-top: 0;
     
 }
+
 .primero p{
     margin:0;
     color: white;
 }
+
 #Primero{
    height: 100px;
     text-align: center;
@@ -30,9 +33,11 @@ h1 ,h2{
     color: white;
 
 }
+
 .c{
     padding: 25px 0;
 }
+
 .segundo{
 
     height: auto;
@@ -42,14 +47,6 @@ h1 ,h2{
     
 }
 
-.ultimo{
-    font-family:'Elriolobo';
-    text-align: center;
-    font-size: 70px;
-    
-}
-
-
 .contenedor{
 background-image: url("../images/cuzco2.jpg");
 background-repeat: no-repeat;
@@ -58,4 +55,13 @@ background-size: cover;
  height: 600px;   
  color: white;
 }
+
+.ultimo{
+    font-family:'Elriolobo';
+    text-align: center;
+    font-size: 70px;
+    padding: 30px;
+    
+}
+
 
